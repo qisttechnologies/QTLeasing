@@ -1,0 +1,6 @@
+package com.example.qtdot
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
